@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Promises</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="Query.css">
+</head>
+<body>
+    
+    <section>
+        <div class="LeftContainer">
+            <h3>Posts</h3>
+            <div class="Content">
+                <img src="../assests/martin-katler-DiJR_M1Mv_A-unsplash.jpg" alt="">
+                <h5>What do you think of EV is the future?</h5>
+                <button id="Promisebutton">Comments</button>
+            </div>
+           
+        </div>
+        <div class="RightContainer">
+            <h3>Comments</h3>
+            <div>
+                <p id="Results"></p>
+                <ul id="Response">
+                    <!-- Dynamic content passing from api -->
+                </ul>
+                <!-- Error message -->
+                <p id="ErrorMessage"></p>
+            </div>
+
+        </div>
+    </section>
+
+    <script src="promise.js"></script>
+</body>
+</html>

@@ -1,0 +1,191 @@
+@media screen and (max-width: 770px) {
+    .LeftContainer {
+      width: 300px;
+      height: 600px;
+      border-radius: 10px;
+      background-color: #ffffff;
+    }
+  
+    .LeftContainer img {
+      width: 260px;
+      height: 340px;
+      border-radius: 5px;
+    }
+  
+    .LeftContainer button {
+      width: 260px;
+      padding: 10px;
+      background-color: #5438fd;
+      border: 0px;
+      border-radius: 5px;
+      font-family: Poppins;
+      color: #ffffff;
+      font-size: 15px;
+      font-weight: 600;
+      margin-top: 30px;
+    }
+  
+    .RightContainer {
+      width: 600px;
+      height: 600px;
+      border-radius: 10px;
+      background-color: #fff;
+      overflow-y: scroll;
+      scrollbar-color: #007fff;
+      scrollbar-width: thin;
+      overflow: auto;
+    }
+  }
+  
+  @media screen and (max-width: 427px) {
+    section {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      gap: 30px;
+      margin-top: 20px;
+      padding: 50px;
+    }
+  
+    .LeftContainer {
+      width: 400px;
+      height: 600px;
+      border-radius: 10px;
+      background-color: #ffffff;
+    }
+  
+    .LeftContainer img {
+      width: 360px;
+      height: 340px;
+      border-radius: 5px;
+    }
+  
+    .LeftContainer button {
+      width: 360px;
+      padding: 10px;
+      background-color: #5438fd;
+      border: 0px;
+      border-radius: 5px;
+      font-family: Poppins;
+      color: #ffffff;
+      font-size: 15px;
+      font-weight: 600;
+      margin-top: 30px;
+    }
+  
+    .RightContainer {
+      width: 400px;
+      height: 600px;
+      border-radius: 10px;
+      background-color: #fff;
+      overflow-y: scroll;
+      scrollbar-color: #007fff;
+      scrollbar-width: thin;
+      overflow: auto;
+    }
+  }
+  
+  
+  @media screen and (max-width:377px) {
+  
+      section {
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+          align-items: center;
+          gap: 30px;
+          margin-top: 20px;
+          padding: 50px;
+        }
+      
+        .LeftContainer {
+          width: 350px;
+          height: 600px;
+          border-radius: 10px;
+          background-color: #ffffff;
+        }
+      
+        .LeftContainer img {
+          width: 310px;
+          height: 340px;
+          border-radius: 5px;
+        }
+      
+        .LeftContainer button {
+          width: 310px;
+          padding: 10px;
+          background-color: #5438fd;
+          border: 0px;
+          border-radius: 5px;
+          font-family: Poppins;
+          color: #ffffff;
+          font-size: 15px;
+          font-weight: 600;
+          margin-top: 30px;
+        }
+      
+        .RightContainer {
+          width: 350px;
+          height: 600px;
+          border-radius: 10px;
+          background-color: #fff;
+          overflow-y: scroll;
+          scrollbar-color: #007fff;
+          scrollbar-width: thin;
+          overflow: auto;
+        }
+      
+  }
+  
+  
+  @media screen and (max-width:323px) {
+  
+      section {
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+          align-items: center;
+          gap: 30px;
+          margin-top: 20px;
+          padding: 50px;
+        }
+      
+        .LeftContainer {
+          width: 300px;
+          height: 600px;
+          border-radius: 10px;
+          background-color: #ffffff;
+        }
+      
+        .LeftContainer img {
+          width: 260px;
+          height: 340px;
+          border-radius: 5px;
+        }
+      
+        .LeftContainer button {
+          width: 260px;
+          padding: 10px;
+          background-color: #5438fd;
+          border: 0px;
+          border-radius: 5px;
+          font-family: Poppins;
+          color: #ffffff;
+          font-size: 15px;
+          font-weight: 600;
+          margin-top: 30px;
+        }
+      
+        .RightContainer {
+          width: 300px;
+          height: 600px;
+          border-radius: 10px;
+          background-color: #fff;
+          overflow-y: scroll;
+          scrollbar-color: #007fff;
+          scrollbar-width: thin;
+          overflow: auto;
+        }
+      
+  }
